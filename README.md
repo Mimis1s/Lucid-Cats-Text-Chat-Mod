@@ -2,6 +2,8 @@
 
 A BepInEx mod that adds text chat to Lucid Cats.
 
+⚠️ AI slop — This mod was developed with AI assistance.
+
 ## Requirements
 
 **BepInEx 5 x64** (5.4.23.5 or newer) — required, and NOT bundled with this mod.
@@ -40,6 +42,7 @@ A BepInEx mod that adds text chat to Lucid Cats.
 
 为 Steam 游戏《Lucid Cats》添加文字聊天的 BepInEx 模组。
 
+⚠️ AI slop——本模组由 AI 辅助开发。
 
 ## 前置要求
 
