@@ -1,15 +1,6 @@
 # Lucid Cats Chat — Text Chat Mod
 
-A BepInEx mod that adds text chat to Lucid Cats, with Chinese IME input and online broadcast.
-
-## Features
-
-- Shows only in game scenes (GameScene), hidden in menus/loading
-- Hidden by default; press Enter to open the chat
-- Chinese IME input supported
-- Online broadcast (Netcode for GameObjects)
-- Shows real Steam names
-- Disables WASD while typing
+A BepInEx mod that adds text chat to Lucid Cats.
 
 ## Requirements
 
@@ -23,7 +14,7 @@ A BepInEx mod that adds text chat to Lucid Cats, with Chinese IME input and onli
    - `winhttp.dll`
    - `doorstop_config.ini`
    - `BepInEx\` folder
-3. Launch the game once. BepInEx will generate its subfolders (`BepInEx\plugins`, etc.) and show a console window.
+3. Launch the game once. BepInEx will generate its subfolders (`BepInEx\plugins`, etc.) 
 4. Verify: a `BepInEx\LogOutput.log` file appears in the game folder.
 
 ## Installing this mod
@@ -42,24 +33,13 @@ A BepInEx mod that adds text chat to Lucid Cats, with Chinese IME input and onli
 - Press **Esc** to cancel
 - The chat fades out automatically after sending
 
-## Localization
-
-- If the translation patch (LucidCatsCN) is also installed, chat hints show in Chinese; otherwise English.
 
 ---
 
 # Lucid Cats Chat — 文字聊天模组
 
-为 Steam 游戏《Lucid Cats》添加文字聊天的 BepInEx 模组，支持中文输入与联机广播。
+为 Steam 游戏《Lucid Cats》添加文字聊天的 BepInEx 模组。
 
-## 功能
-
-- 进入游戏场景（GameScene）后才显示
-- 常驻隐藏，按回车唤起聊天框
-- 支持中文输入（IME）
-- 联机广播（Netcode for GameObjects）
-- 显示玩家真实 Steam 名
-- 打字时自动禁用 WASD 输入
 
 ## 前置要求
 
@@ -73,7 +53,7 @@ A BepInEx mod that adds text chat to Lucid Cats, with Chinese IME input and onli
    - `winhttp.dll`
    - `doorstop_config.ini`
    - `BepInEx\` 文件夹
-3. 启动游戏一次，BepInEx 会自动生成子目录（`BepInEx\plugins` 等）并弹出控制台窗口。
+3. 启动游戏一次，BepInEx 会自动生成子目录（`BepInEx\plugins` 等）
 4. 验证：游戏目录下出现 `BepInEx\LogOutput.log`。
 
 ## 安装本模组
